@@ -15,7 +15,7 @@ imutils==0.5.4
 inquirer==2.6.3
 jdcal==1.4.1
 jedi==0.16.0
-lxml==4.6.3
+lxml==4.6.5
 multidict==4.7.6
 ndg-httpsclient==0.5.1
 numpy==1.21.0
