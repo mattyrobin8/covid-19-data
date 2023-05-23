@@ -12,7 +12,7 @@ pyaml-env~=1.1.0
 PyPDF2==1.26.0
 pyperclip==1.8.2
 pytz==2020.5
-requests==2.25.1
+requests==2.31.0
 selenium==3.141.0
 tabula-py==2.2.0
 tweepy~=3.10.0
