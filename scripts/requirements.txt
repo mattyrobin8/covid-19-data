@@ -28,7 +28,7 @@ prompt-tool-kit==1.0.14
 prompt-toolkit==3.0.4
 ptyprocess==0.6.0
 pyasn1==0.4.8
-Pygments==2.7.4
+Pygments==2.15.0
 PyMySQL==0.9.3
 pyOpenSSL==20.0.1
 pytesseract==0.3.7
